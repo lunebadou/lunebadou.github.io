@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: "Alioune Badara Seye - Portfolio IT"
-description: "Labs réseau, DevSecOps & Support technique"
+
+title: "Alioune Badara Seye — Expert IT"
+description: "Le profit du savoir-faire : Support • Réseaux • DevSecOps"
+
+logo: /profile.png
+show_downloads: false
