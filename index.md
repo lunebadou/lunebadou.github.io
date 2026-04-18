@@ -1,9 +1,8 @@
 ---
-layout: home
-title: "Bienvenue sur mon portfolio technique"
+layout: default
 ---
 
-## 🔧 Qui suis-je ?
+# 🔧 Alioune Badara Seye
 
 Expérimenté en support IT (Bouygues Telecom, Vidéotron), passionné de réseaux et DevSecOps.  
 Je crée des **labs** pour approfondir :
