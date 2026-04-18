@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
-
-title: ⚙️ Expertises ! 
-
-description: Alioune Badara Seye _ Expert IT
-
+title: "Expertises !"
+description: "Alioune Badara Seye - Expert IT | Réseaux, DevSecOps, Labs techniques"
 logo: /profile.png
-
+github_username: lunebadou
 show_downloads: false
+# Optionnel : favicon si tu ajoutes un fichier favicon.ico à la racine
+# favicon: /favicon.ico
